@@ -18,6 +18,7 @@
 
 Users
 
+- id
 - name
 - username/email
 - salt
@@ -25,4 +26,8 @@ Users
 
 Quizes
 
+- id
+- category (work, nature, pets, personal, others)
+- question (text + answers + points/importance)
+- audience
 -
